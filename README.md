@@ -38,7 +38,7 @@ pip install numpy matplotlib scikit-fuzzy networkx
 2. Ana dosyayı çalıştırın:
 
 ```
-python odev.py
+python main.py
 ```
 
 > Not: `odev.py` dosyasının bulunduğu klasörde çalıştırmanız gerekir.
