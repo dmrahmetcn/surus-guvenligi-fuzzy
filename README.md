@@ -1,6 +1,6 @@
 # 🚗 Bulanık Mantık ile Sürüş Güvenliği Değerlendirme Sistemi
 
-Bu proje, **Mersin Üniversitesi Bilişim Sistemleri ve Teknolojileri** bölümü öğrencileri tarafından, **Bulanık Mantık** dersi kapsamında hazırlanmıştır. Amaç, sürüş güvenliğini etkileyen faktörleri bulanık mantık ile analiz ederek, bir sürücünün güvenlik seviyesini değerlendirmektir.
+Bu proje, **Mersin Üniversitesi Bilişim Sistemleri ve Teknolojileri** bölümü **21430070026** numaralı Ahmet Can DEMİR tarafından yapılmış olup, **Bulanık Mantık** dersi kapsamında hazırlanmıştır. Amaç, sürüş güvenliğini etkileyen faktörleri bulanık mantık ile analiz ederek, bir sürücünün güvenlik seviyesini değerlendirmektir.
 
 ---
 
@@ -45,15 +45,10 @@ python odev.py
 
 ---
 
-## 🖼️ Ekran Görüntüsü
-
-> Projeyi çalıştırdığınızda, kullanıcıdan giriş alınan bir arayüz ve güvenlik skorunun grafiği görüntülenir.
-
----
 
 ## 👥 Geliştiriciler
 
-- Ahmet [@kullaniciadiniz](https://github.com/kullaniciadiniz)
+- Ahmet [@dmrahmetcn](https://github.com/dmrahmetcn)
 - ChatGPT (destek ve danışmanlık 😄)
 
 ---
